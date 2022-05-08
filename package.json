@@ -1,0 +1,19 @@
+{
+  "name": "torneo_deportivo",
+  "version": "1.0.0",
+  "description": "Proyecto de Practica Supervisada Control de Torneo Deportivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarroquin202096/Torneo_Deportivo.git"
+  },
+  "author": "Josue Daniel Marroquín Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmarroquin202096/Torneo_Deportivo/issues"
+  },
+  "homepage": "https://github.com/jmarroquin202096/Torneo_Deportivo#readme"
+}
